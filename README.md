@@ -15,6 +15,3 @@ This project was built as part of the [Boot.dev](https://www.boot.dev) curriculu
 * **Character Frequency**: Provides a sorted list of every character found and how many times it appeared.
 * **Simple CLI**: Easy to run from any terminal.
 
----
-
-## Project Structure
